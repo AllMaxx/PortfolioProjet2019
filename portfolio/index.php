@@ -9,10 +9,10 @@
 
 </head>
 <body>
-<?php include 'database.php'; ?>
+
 <aside>
     <nav>
-        <img src="drake.jpeg" alt="drakee">
+        <img src="maxence.monnier.jpg" alt="MaxenceMONNIER">
         <a href="#Accueil"><i class="material-icons md-36">home</i>
             <p>Accueil</p>
         </a>

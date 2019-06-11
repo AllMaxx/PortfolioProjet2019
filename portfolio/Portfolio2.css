@@ -210,10 +210,52 @@ main.dark{
   width: 0%;
 }
 
+.btn1 {
+  margin-left: 11%;
+  background-color: green; /* Blue background */
+  border: 1px solid white;
+  color: white; /* White text */
+  padding: 17px 30px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+  display: inline-block;
+}
+
+.btn2 {
+  background-color: green; /* Blue background */
+  border: 1px solid white;
+  color: white; /* White text */
+  padding: 17px 30px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+  display: inline-block;
+}
+
+.btn3 {
+  background-color: red; /* Blue background */
+  border: 1px solid white;
+  color: white; /* White text */
+  padding: 17px 30px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+  display: inline-block;
+}
 
 
+h6{
+	font-weight: 900;
+	font-size: 80px;
+	color: #b2b2b2;
+	text-shadow: 3px 3px 10px black;
+}
 
-
+h4{
+	font-weight: 500;
+	font-size: 40px;
+	margin-left: 25%;
+	color: white;
+	text-shadow: 3px 3px 10px black;
+}
 
 
 
